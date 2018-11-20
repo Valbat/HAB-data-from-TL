@@ -1,4 +1,4 @@
-Date,Time,Temp ,Spec. Cond (ms/cm),pH,DO ,DO (% Saturation),Turbidity (fnu),Chlorophyll ,Phycocyanin,Battery (V)
+Date,Time,Temp ,Spec. Cond (ms/cm),ph,DO ,DO (% Saturation),turbidity ,chlorophyll ,phycocyanin,Battery (V)
 12/8/2016,14:15:00,3.57,0.22,6.68,12.74,96.13,3.07,0.99,0.33,12.23
 12/8/2016,14:30:00,3.65,0.23,6.69,12.7,96.06,2.13,0.77,0.32,12.22
 12/8/2016,14:45:00,3.69,0.24,6.71,12.67,95.95,2.09,0.88,0.35,12.23
