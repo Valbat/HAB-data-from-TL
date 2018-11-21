@@ -41,7 +41,6 @@ na.omit(Site_id)
 
 Site_id <- as.character(Lawrence_ecoli$ï..Site.ID)
 
-
 #now let's try tpoplot again
 ggplot(data=Lawrence_ecoli,
        aes(x=Site_id, y=ecoli_Nos))+
@@ -61,3 +60,8 @@ ggplot(data=Lawrence_ecoli,
 
 ? guess
 sum(ecoli_Nos)
+
+#missing half part of the afternoon where I plotted ecoli by date and gave color w/geom pont to site ids. 
+#A little bit closer to what I want but I can't seem to get the ecoli data to arrange in descending numeric order. 
+#when I use arrange or arrang(desc) it won't put it in numeric order. Not sure why. 
+#used as.numeric to change ecoli but it still isn't formatting in descending order. 
