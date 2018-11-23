@@ -1,0 +1,104 @@
+﻿Site ID,,Date,E.coli _MPN_100mL
+AND01,Andover Sampling Port',9/7/2016,16
+AND01,Andover Sampling Port',9/21/2016,202
+AND01,Andover Sampling Port',9/21/2016,192
+AND01,Andover Sampling Port',10/12/2016,202
+AND01,Andover Sampling Port',10/26/2016,
+AND01,Andover Sampling Port',11/16/2016,84
+AND01,Andover Sampling Port',11/30/2016,223
+AND01,Andover Sampling Port',12/14/2016,43
+AND01,Andover Sampling Port',9/21/2017,192
+AND01               ,Andover Sampling Port',5/17/2017,44
+AND01               ,Andover Sampling Port',5/26/2017,992
+AND01               ,Andover Sampling Port',6/13/2017,49
+AND01               ,Andover Sampling Port',6/19/2017,125
+AND01               ,Andover Sampling Port',8/14/2017,49
+AND01               ,Andover Sampling Port',8/14/2017,39
+AND01               ,Andover Sampling Port',8/23/2017,125
+AND01               ,Andover Sampling Port',8/23/2017,109
+AND01               ,Andover Sampling Port',9/7/2017,2190
+AND01               ,Andover Sampling Port',10/30/2017,
+AND01 (Duplicate),Duplicate of AND01,9/7/2016,20
+AND01 (Duplicate),Duplicate of AND01,9/21/2016,181
+AND01 (Duplicate)  ,Duplicate of AND01,8/23/2017,49
+LAW01,Lawrence Instrument Bypass,9/7/2016,16
+LAW01,Lawrence Instrument Bypass,9/21/2016,285
+LAW01,Lawrence instrument bypass,10/12/2016,8
+LAW01,Lawrence instrument bypass,10/26/2016,
+LAW01,Lawrence instrument bypass,11/16/2016,73
+LAW01,Lawrence Instrument Bypass,11/30/2016,43
+LAW01,Lawrence Instrument Bypass,12/14/2016,30
+LAW01               ,Lawrence instrument bypass,5/17/2017,21
+LAW01               ,Lawrence instrument bypass,5/26/2017,2190
+LAW01               ,Lawrence instrument bypass,6/13/2017,8
+LAW01               ,Lawrence Instrument Bypass,6/19/2017,12
+LAW01               ,Lawrence instrument bypass,6/19/2017,12
+LAW01               ,Lawrence Instrument Bypass,8/14/2017,8
+,,,
+LAW01               ,Lawrence Instrument Bypass,8/23/2017,12
+LAW01               ,Lawrence instrument bypass,8/23/2017,34
+LAW01               ,Lawrence instrument bypass,9/7/2017,1549
+LAW01               ,Lawrence instrument bypass,10/30/2017,2452
+LAW01 (Duplicate),Lawrence instrument bypass,11/30/2016,29
+,,,
+LAW01 (Duplicate) ,Lawrence instrument bypass,6/19/2017,38
+LAW01 (Duplicate)            ,Lawrence instrument bypass,5/17/2017,25
+LAW01 Duplicate,Lawrence instrument bypass,9/7/2017,1302
+LAW01 Duplicate,Lawrence instrument bypass,10/30/2017,2318
+MERA,Merrimack River @ Andover Intake,9/7/2016,4
+MERA,Merrimack River @ Andover Intake,9/21/2016,106
+MERA,Merrimack River @ Andover Intake,10/12/2016,252
+MERA,Merrimack River @ Andover Intake,10/26/2016,
+MERA,Merrimack River @ Andover Intake,11/16/2016,59
+MERA,Merrimack River @ Andover Intake,11/30/2016,345
+MERA,Merrimack River @ Andover Intake,12/14/2016,34
+MERA,Merrimack River @ Andover Intake,9/21/2017,106
+MERA                ,Merrimack River @ Andover Intake,5/17/2017,34
+MERA                ,Merrimack River @ Andover Intake,5/26/2017,875
+MERA                ,Merrimack River @ Andover Intake,6/13/2017,43
+MERA                ,Merrimack River @ Andover Intake,6/13/2017,43
+MERA                ,Merrimack River @ Andover Intake,6/19/2017,152
+MERA                ,Merrimack River @ Andover Intake,8/14/2017,43
+MERA                ,Merrimack River @ Andover Intake,8/14/2017,97
+MERA                ,Merrimack River @ Andover Intake,8/23/2017,152
+MERA                ,Merrimack River @ Andover Intake,8/23/2017,202
+MERA                ,Merrimack River @ Andover Intake,9/7/2017,3466
+MERA                ,Merrimack River @ Andover Intake,10/30/2017,9678
+MERBH,Merrimack River @ Abe Bashara Boathouse,5/17/2017,115
+MERBH,Merrimack River @ Abe Bashara Boathouse,5/26/2017,4480
+MERBH,Merrimack River @ Abe Bashara Boathouse,6/13/2017,205
+MERBH,Merrimack River @ Abe Bashara Boathouse,6/19/2017,97
+MERBH,Merrimack River @ Abe Bashara Boathouse,8/14/2017,16
+MERBH,Merrimack River @ Abe Bashara Boathouse,8/23/2017,62
+MERBH,Merrimack River @ Abe Bashara Boathouse,9/7/2017,176
+MERBH,Merrimack River @ Abe Bashara Boathouse,10/30/2017,5199
+MERBH (Duplicate)              ,Merrimack River @ Abe Bashara Boathouse,5/26/2017,5199
+MERDD               ,Duplicate,5/17/2017,25
+MERDD               ,Duplicate,5/26/2017,5199
+MERDD               ,Duplicate,6/19/2017,38
+MERL,Merrimack River - Lawrence Intake,10/12/2016,12
+MERL,Merrimack River - Lawrence Intake,10/26/2016,
+MERL,Merrimack River - Lawrence Intake,11/16/2016,44
+MERL,Merrimack River - Lawrence Intake,11/30/2016,34
+MERL,Merrimack River - Lawrence Intake,12/14/2016,64
+MERL               ,Merrimack River - Lawrence Intake,5/26/2017,2908
+MERL               ,Merrimack River - Lawrence Intake,8/14/2017,12
+MERL               ,Merrimack River - Lawrence Intake,8/14/2017,16
+MERL               ,Merrimack River - Lawrence Intake,8/23/2017,40
+MERL               ,Merrimack River - Lawrence Intake,8/23/2017,134
+MERL               ,Merrimack River - Lawrence Intake,9/7/2017,3466
+MERL               ,Merrimack River - Lawrence Intake,10/30/2017,3080
+MERL                ,Merrimack River - Lawrence Intake,5/17/2017,53
+MERL                ,Merrimack River - Lawrence Intake,6/13/2017,12
+MERL                ,Merrimack River - Lawrence Intake,6/19/2017,40
+MERMD,Methuen Dock Near I-93 Bridge,5/17/2017,67
+MERMD,Methuen Dock Near I-93 Bridge,5/17/2017,67
+MERMD,Methuen Dock Near I-93 Bridge,5/26/2017,3683
+MERMD,Methuen Dock Near I-93 Bridge,6/13/2017,34
+MERMD,Methuen Dock Near I-93 Bridge,6/19/2017,80
+MERMD,Methuen Dock Near I-93 Bridge,8/14/2017,34
+MERMD,Methuen Dock Near I-93 Bridge,8/14/2017,16
+MERMD,Methuen Dock Near I-93 Bridge,8/23/2017,192
+MERMD,Methuen Dock Near I-93 Bridge,9/7/2017,5199
+MERMD,Methuen Dock Near I-93 Bridge,10/30/2017,5654
+mjh,Duplicate,8/23/2017,38
